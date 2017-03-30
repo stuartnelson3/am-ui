@@ -1,5 +1,7 @@
 # Alertmanager UI
 
+**NOTE:** This project has been merged into https://github.com/prometheus/alertmanager.
+
 This is a re-write of the Alertmanager UI in [elm-lang](http://elm-lang.org/).
 
 ## Usage
